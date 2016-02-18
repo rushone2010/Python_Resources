@@ -9,11 +9,11 @@
 #### Intro to Python for absolute Beginners
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/#basics)
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Think Python](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [Automate The Boring Stuff](https://automatetheboringstuff.com/)
 * [Begin Python](http://www.beginpython.com/  )
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/)
-* [Dive Into Python](http://www.diveintopython.net/toc/index.html)
+* [Dive Into Python](http://www.diveintopython3.net)
 * [Python.orgs' Beginners Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/)
@@ -33,7 +33,7 @@
 
 #### Podcasts
 * [Talk Python to Me](http://talkpython.fm/)
-* [Podcast.__init\__](http://podcastinit.com/)
+* [Podcast.init](http://podcastinit.com/)
 
 #### Curated Python packages lists
 * [awesome-python](https://github.com/vinta/awesome-python)
