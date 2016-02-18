@@ -1,4 +1,4 @@
-<img align="left" src="http://i.imgur.com/3I3x6j2.png" alt="Title">
+<img align="left" src="http://i.imgur.com/fM548xI.jpg" alt="Title">
 </br>
 </br>
 
